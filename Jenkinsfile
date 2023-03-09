@@ -7,7 +7,7 @@ pipeline{
 	       stage("stage-1"){
                   
 	  steps{
-                  sh "mkdir scm"
+                  sh "mkdir test"
 
                 }
             }
