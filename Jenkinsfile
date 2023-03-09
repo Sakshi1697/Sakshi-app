@@ -3,8 +3,6 @@ pipeline{
            label "built-in"
 }
 
-          
-          }
      stages {
 	       stage("stage-1"){
                   
@@ -14,4 +12,4 @@ pipeline{
                 }
             }
      }
-	 }
+} 
